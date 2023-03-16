@@ -4,7 +4,7 @@
 
 1. Download the course files:
 
-[! [Sandbox Introduction to JSX]](https://codesandbox.io/s/introduction-to-jsx-h8ub1?fontsize=14&module=/public/index.html+babeljs.io&file=/package.json)
+[Sandbox Introduction to JSX](https://codesandbox.io/s/introduction-to-jsx-h8ub1?fontsize=14&module=/public/index.html+babeljs.io&file=/package.json)
 
 2. cd into your current project and initialize npm:
 
